@@ -1,13 +1,5 @@
-# Class:     CSCI 490-B3
-# Program:   Assignment 4
-# Author:    Vivek Patel
-# Z-number:  z1698694
-# Date Due:  03/06/2015
-
 # Purpose:   Run a comparison (Pearson r value) using a user selected movie and all other movies in the data file 
 #            in order to determine the 20 most similar movies based on the movies ratings.             
-
-# Execution: python3 hw4.py 
 
 #!/usr/bin/python3
 
