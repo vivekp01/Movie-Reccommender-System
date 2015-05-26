@@ -1,0 +1,99 @@
+
+Enter a movie number 1-1682 (q or quit to exit): 
+
+Total number of movies:    1682
+Total number of reviewers:  942
+
+1 :  Toy Story (1995)
+
+ Movie Name                                                            r Value 
+  1   Perez Family, The (1995)                                          0.761
+  2   Transformers: The Movie, The (1986)                               0.754
+  3   Mouse Hunt (1997)                                                 0.737
+  4   Haunted World of Edward D. Wood Jr., The (1995)                   0.712
+  5   Farinelli: il castrato (1994)                                     0.681
+  6   Alaska (1996)                                                     0.680
+  7   Farewell My Concubine (1993)                                      0.673
+  8   Set It Off (1996)                                                 0.671
+  9   Paris Is Burning (1990)                                           0.668
+ 10   D3: The Mighty Ducks (1996)                                       0.663
+ 11   Fallen (1998)                                                     0.655
+ 12   187 (1997)                                                        0.652
+ 13   Raise the Red Lantern (1991)                                      0.642
+ 14   Eddie (1996)                                                      0.623
+ 15   Associate, The (1996)                                             0.621
+ 16   Grease 2 (1982)                                                   0.620
+ 17   Cemetery Man (Dellamorte Dellamore) (1994)                        0.620
+ 18   My Man Godfrey (1936)                                             0.619
+ 19   Great Expectations (1998)                                         0.612
+ 20   Once Upon a Time in the West (1969)                               0.607
+
+Enter a movie number 1-1682 (q or quit to exit): 
+
+Total number of movies:    1682
+Total number of reviewers:  942
+
+23 :  Taxi Driver (1976)
+
+ Movie Name                                                            r Value 
+  1   Funeral, The (1996)                                               0.684
+  2   Casper (1995)                                                     0.648
+  3   Sgt. Bilko (1996)                                                 0.627
+  4   Hate (Haine, La) (1995)                                           0.579
+  5   Night Falls on Manhattan (1997)                                   0.577
+  6   Anaconda (1997)                                                   0.574
+  7   Unstrung Heroes (1995)                                            0.571
+  8   Women, The (1939)                                                 0.559
+  9   Brassed Off (1996)                                                0.546
+ 10   Cable Guy, The (1996)                                             0.539
+ 11   MatchMaker, The (1997)                                            0.536
+ 12   Othello (1995)                                                    0.535
+ 13   Get on the Bus (1996)                                             0.520
+ 14   Higher Learning (1995)                                            0.504
+ 15   Amateur (1994)                                                    0.502
+ 16   Once Upon a Time... When We Were Colored (1995)                   0.501
+ 17   Shadowlands (1993)                                                0.490
+ 18   Nixon (1995)                                                      0.489
+ 19   Raise the Red Lantern (1991)                                      0.488
+ 20   Chinatown (1974)                                                  0.477
+
+Enter a movie number 1-1682 (q or quit to exit): 
+
+Total number of movies:    1682
+Total number of reviewers:  942
+
+764 :  If Lucy Fell (1996)
+
+ Movie Name                                                            r Value 
+  1   French Kiss (1995)                                                0.891
+  2   Michael (1996)                                                    0.821
+  3   Ghost (1990)                                                      0.796
+  4   Game, The (1997)                                                  0.748
+  5   Murder at 1600 (1997)                                             0.742
+  6   Copycat (1995)                                                    0.736
+  7   Craft, The (1996)                                                 0.733
+  8   Chasing Amy (1997)                                                0.720
+  9   G.I. Jane (1997)                                                  0.709
+ 10   Spitfire Grill, The (1996)                                        0.704
+ 11   Hercules (1997)                                                   0.692
+ 12   Grosse Pointe Blank (1997)                                        0.650
+ 13   True Lies (1994)                                                  0.646
+ 14   She's the One (1996)                                              0.630
+ 15   Othello (1995)                                                    0.626
+ 16   Four Rooms (1995)                                                 0.623
+ 17   Kiss the Girls (1997)                                             0.614
+ 18   Schindler's List (1993)                                           0.613
+ 19   Beautiful Girls (1996)                                            0.602
+ 20   Blade Runner (1982)                                               0.592
+
+Enter a movie number 1-1682 (q or quit to exit): 
+
+Total number of movies:    1682
+Total number of reviewers:  942
+
+788 :  Relative Fear (1994)
+
+ Movie Name                                                            r Value 
+Insufficient comparison movies
+
+Enter a movie number 1-1682 (q or quit to exit): 
